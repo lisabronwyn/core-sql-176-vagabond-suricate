@@ -1,0 +1,35 @@
+CREATE TABLE clothing (id INTEGER, item TEXT, sizes TEXT, price INTEGER, availability TEXT);
+
+INSERT into clothing VALUES (1, 'Black Dress', 'XXS-XXL', 100, 'Yes');
+
+INSERT into clothing VALUES (2, 'Black Jeans', 'XXS-XXL', 70, 'Yes');
+
+INSERT into clothing VALUES (3, 'Black Shirt', 'XXS-XXL', 40, 'Yes');
+
+INSERT into clothing VALUES (4, 'Black Socks', 'XXS-XXL', 10, 'Yes');
+
+INSERT into clothing VALUES (5, 'Black Skirt', 'XXS-XXL', 50, 'Yes');
+
+INSERT into clothing VALUES (6, 'Black Shorts', 'XXS-XXL', 30, 'Yes');
+
+INSERT into clothing VALUES (7, 'Black Leggings', 'XXS-XXL', 35, 'Yes');
+
+INSERT into clothing VALUES (8, 'Black Pants', 'XXS-XXL', 75, 'Yes');
+
+INSERT into clothing VALUES (9, 'Black Collared Shirt', 'XXS-XXL', 90, 'Yes');
+
+INSERT into clothing VALUES (10, 'Black Handbag', 'OS', 100, 'Yes');
+
+INSERT into clothing VALUES (11, 'Black Sunglasses', 'OS', 150, 'Yes');
+
+INSERT into clothing VALUES (12, 'Black Swimsuit', 'XXS-XXL', 120, 'Yes');
+
+INSERT into clothing VALUES (13, 'Black Camisole', 'XXS-XXL', 45, 'Yes');
+
+INSERT into clothing VALUES (14, 'Black Scarf', 'OS', 30, 'Yes');
+
+INSERT into clothing VALUES (15, 'Black Headband', 'OS', 20, 'Yes');
+
+INSERT into clothing VALUES (16, 'Black Necklace', 'OS', 20, 'Yes');
+
+SELECT * FROM clothing WHERE price > 21 ORDER BY price ASC;
