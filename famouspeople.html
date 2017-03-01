@@ -1,0 +1,35 @@
+CREATE TABLE famous_people(id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, age INTEGER, birthplace TEXT);
+
+INSERT INTO famous_people VALUES(1,"Gena Rowlands",72,"USA");
+INSERT INTO famous_people VALUES(2,"Rita Hayworth",100,"USA");
+INSERT INTO famous_people VALUES(3,"Sheila Vand", 33,"USA");
+INSERT INTO famous_people VALUES(4,"John Wick",18,"USA");
+INSERT INTO famous_people VALUES(5,"Allison Ellison",28,"USA");
+
+CREATE TABLE job(id INTEGER PRIMARY KEY AUTOINCREMENT, famous_id INTEGER, type_job TEXT);
+
+INSERT INTO job VALUES(1,1,"actor");
+INSERT INTO job VALUES(2,2,"dancer");
+INSERT INTO job VALUES(3,3,"director");
+INSERT INTO job VALUES(4,4,"badass");
+INSERT INTO job VALUES(5,5,"producer");
+
+CREATE TABLE worked_together(id INTEGER PRIMARY KEY AUTOINCREMENT, famous1_id INTEGER, famous2_id INTEGER);
+
+INSERT INTO worked_together VALUES(1,1,3);
+INSERT INTO worked_together VALUES(2,2,4);
+INSERT INTO worked_together VALUES(3,4,5);
+INSERT INTO worked_together VALUES(4,3,4);
+INSERT INTO worked_together VALUES(5,3,5);
+INSERT INTO worked_together VALUES(6,1,2);
+INSERT INTO worked_together VALUES(7,3,2);
+INSERT INTO worked_together VALUES(8,2,5);
+
+SELECT famous_people.name, job.type_job FROM famous_people JOIN job ON famous_people.id = job.famous_id;
+
+SELECT a.name, b.name
+FROM worked_together
+JOIN famous_people a
+    ON famous1_id = a.id
+JOIN famous_people b
+    ON famous2_id = b.id;
