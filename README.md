@@ -43,11 +43,11 @@ Becoming a full stack web developer means that you need to be comfortable with w
 
 ### Day 3: Install Postgres and Complete Tutorials with psql
 - [x] Install Homebrew by following instructions listed [here](https://gist.github.com/punitrathore/ca32542fddd0d8b625aab610c35e4545)
-- [ ] Install Postgres by following instructions listed [here](https://gist.github.com/punitrathore/ca32542fddd0d8b625aab610c35e4545#install-postgres)
+- [x] Install Postgres by following instructions listed [here](https://gist.github.com/punitrathore/ca32542fddd0d8b625aab610c35e4545#install-postgres)
 - [ ] Learn the `psql` command line tool by working through the following tutorials
-  - [ ] complete the tutorial for `createdb` [here](https://www.tutorialspoint.com/postgresql/postgresql_create_database.htm)
-  - [ ] complete the tutorial for selecting the database [here](https://www.tutorialspoint.com/postgresql/postgresql_select_database.htm)
-  - [ ] complete the tutorial for dropping the database [here](https://www.tutorialspoint.com/postgresql/postgresql_drop_database.htm)
+  - [x] complete the tutorial for `createdb` [here](https://www.tutorialspoint.com/postgresql/postgresql_create_database.htm)
+  - [x] complete the tutorial for selecting the database [here](https://www.tutorialspoint.com/postgresql/postgresql_select_database.htm)
+  - [x] complete the tutorial for dropping the database [here](https://www.tutorialspoint.com/postgresql/postgresql_drop_database.htm)
   - [ ] complete the tutorial for `create table` [here](https://www.tutorialspoint.com/postgresql/postgresql_create_table.htm)
   - [ ] complete the tutorial for `drop table` [here](https://www.tutorialspoint.com/postgresql/postgresql_drop_table.htm)
   - [ ] complete the tutorial for `schema` [here](https://www.tutorialspoint.com/postgresql/postgresql_schema.htm)
