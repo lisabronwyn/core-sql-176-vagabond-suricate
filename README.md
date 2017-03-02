@@ -54,14 +54,14 @@ Becoming a full stack web developer means that you need to be comfortable with w
   - [x] complete the tutorial for `insert` [here](https://www.tutorialspoint.com/postgresql/postgresql_insert_query.htm)
   - [x] complete the tutorial for `select` [here](https://www.tutorialspoint.com/postgresql/postgresql_select_query.htm)
   - [x] complete the tutorial for expressions [here](https://www.tutorialspoint.com/postgresql/postgresql_expressions.htm)
-  - [ ] complete the tutorial for `where` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_where_clause.htm)
-  - [ ] complete the tutorial for `and` and `or` operators [here](https://www.tutorialspoint.com/postgresql/postgresql_and_or_clauses.htm)
-  - [ ] complete the tutorial for update queries [here](https://www.tutorialspoint.com/postgresql/postgresql_update_query.htm)
-  - [ ] complete the tutorial for delete queries [here](https://www.tutorialspoint.com/postgresql/postgresql_delete_query.htm)
-  - [ ] complete the tutorial for the `like` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_like_clause.htm)
-  - [ ] complete the tutorial for the `limit` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_limit_clause.htm)
-  - [ ] complete the tutorial for the `order by` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_order_by.htm)
-  - [ ] complete the tutorial for the `group by` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_group_by.htm)
+  - [x] complete the tutorial for `where` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_where_clause.htm)
+  - [x] complete the tutorial for `and` and `or` operators [here](https://www.tutorialspoint.com/postgresql/postgresql_and_or_clauses.htm)
+  - [x] complete the tutorial for update queries [here](https://www.tutorialspoint.com/postgresql/postgresql_update_query.htm)
+  - [x] complete the tutorial for delete queries [here](https://www.tutorialspoint.com/postgresql/postgresql_delete_query.htm)
+  - [x] complete the tutorial for the `like` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_like_clause.htm)
+  - [x] complete the tutorial for the `limit` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_limit_clause.htm)
+  - [x] complete the tutorial for the `order by` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_order_by.htm)
+  - [x] complete the tutorial for the `group by` clause [here](https://www.tutorialspoint.com/postgresql/postgresql_group_by.htm)
 
 ### Day 4: Mini Project & Exercises
 - [ ] Exercises 1-13 in the [sql-exercises][sql-exercises] repo are complete and written to the appropriate file:
