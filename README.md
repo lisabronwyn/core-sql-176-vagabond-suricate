@@ -19,7 +19,7 @@ This goal will likely be within your ZPD if you...
 
 A day-by-day structured deep dive into the basics of SQL. Complete lessons, and read tutorials.
 
-This goal makes heavy use of external resources: the [Introduction to SQL](https://www.khanacademy.org/computing/computer-programming/sql) course on [Khan Academy](https://www.khanacademy.com/), [Tutorial's Point](https://www.tutorialspoint.com/postgresql), [SQL Zoo](http://sqlzoo.net) and [SQL Bolt](https://sqlbolt.com/lesson/select_queries_order_of_execution)
+This goal makes heavy use of external resources: the [Introduction to SQL](https://www.khanacademy.org/computing/computer-programming/sql) course on [Khan Academy](https://www.khanacademy.com/), [Tutorials Point](https://www.tutorialspoint.com/postgresql), [SQL Zoo](http://sqlzoo.net) and [SQL Bolt](https://sqlbolt.com/lesson/select_queries_order_of_execution)
 
 For the first few days, you'll be working on existing courses and completing tutorials. Then you'll use your skills to complete a set of SQL exercises and submit your queries as your artifact.
 
