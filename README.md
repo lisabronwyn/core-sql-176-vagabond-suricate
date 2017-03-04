@@ -73,11 +73,11 @@ Becoming a full stack web developer means that you need to be comfortable with w
   - [x] `sql/06-load-table-like.sql`
   - [x] `sql/07-query-friends-gabriel.sql`
   - [x] `sql/08-query-likes-grade-two-or-more.sql`
-  - [ ] `sql/09-mutual-likes.sql`
-  - [ ] `sql/10-not-liked.sql`
-  - [ ] `sql/11-liked-but-does-not-like.sql`
-  - [ ] `sql/12-find-friends-in-common.sql`
-  - [ ] `sql/13-popular-students.sql`
+  - [x] `sql/09-mutual-likes.sql`
+  - [x] `sql/10-not-liked.sql`
+  - [x] `sql/11-liked-but-does-not-like.sql`
+  - [x] `sql/12-find-friends-in-common.sql`
+  - [x] `sql/13-popular-students.sql`
 
 ### Day 5: Exercises on SQL Bolt
 - [ ] Complete the [SQL Bolt tutorial](https://sqlbolt.com/)
