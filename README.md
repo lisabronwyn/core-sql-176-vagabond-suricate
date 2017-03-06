@@ -80,11 +80,11 @@ Becoming a full stack web developer means that you need to be comfortable with w
   - [x] `sql/13-popular-students.sql`
 
 ### Day 5: Exercises on SQL Bolt
-- [ ] Complete the [SQL Bolt tutorial](https://sqlbolt.com/)
+- [x] Complete the [SQL Bolt tutorial](https://sqlbolt.com/)
 
 ### Stretch
 - [ ] Complete the [Codeacademy course on SQL](https://www.codecademy.com/learn/learn-sql)
-- [ ] Complete the [SQL Zoo quizzes](http://sqlzoo.net/wiki/Tutorial_Quizzes)
+- [x] Complete the [SQL Zoo quizzes](http://sqlzoo.net/wiki/Tutorial_Quizzes)
 
 ### Quality Rubric
 
